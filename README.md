@@ -2,8 +2,6 @@
 
 > 🧠 Bachelor-level course on modern AI: Vision, LLMs, and practical AI for real-world impact.
 
-![Modern AI Banner](https://raw.githubusercontent.com/kaopanboonyuen/assets/main/banner/ai_course_banner_2025.png)
-
 ---
 
 ## 👨‍🏫 Lecturer
@@ -24,7 +22,7 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ## 🗓️ Weekly Schedule (16 Weeks)
 
-# 📅 Week 1: Introduction to AI + Python Refresher (NumPy & Pandas)
+### 📅 Week 1: Introduction to AI + Python Refresher (NumPy & Pandas)
 
 > 🎯 **Goal**: Understand the course structure and refresh Python basics for data manipulation.
 
@@ -70,6 +68,5 @@ This course is inspired by the works of [CS231n](http://cs231n.stanford.edu/), [
 ---
 
 ![Support Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)
-```
 
 ---
