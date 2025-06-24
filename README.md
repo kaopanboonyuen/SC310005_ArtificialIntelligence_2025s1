@@ -6,8 +6,10 @@
 
 ## 👨‍🏫 Lecturer
 
-**Teerapong Panboonyuen (Kao)**  
-Khon Kaen Business School, Khon Kaen University  
+**Teerapong Panboonyuen or P'Kao**  
+
+> Senior AI Research Scientist, MARS and PostDoc Fellow, Chula
+
 📧 [teerapong.pa@chula.ac.th](mailto:teerapong.pa@chula.ac.th) | 🌐 [GitHub Profile](https://github.com/kaopanboonyuen)
 
 ---
@@ -22,31 +24,25 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ## 🗓️ Weekly Schedule (16 Weeks)
 
+---
+
 ### 📅 Week 1: Introduction to AI + Python Refresher (NumPy & Pandas)
 
 > 🎯 **Goal**: Understand the course structure and refresh Python basics for data manipulation.
 
-## 🧠 Topics Covered
+#### 🛠️ Lab Activity: Titanic Dataset Survival Prediction
 
-- 📘 Course overview & expectations
-- 🔧 Setup Google Colab + GitHub
-- 🐍 Python basics for AI
-- 🔢 NumPy arrays & vectorized operations
-- 📊 Pandas: Series, DataFrames, basic EDA
-
-## 🛠️ Lab Activity: Titanic Dataset Survival Prediction
-
-### 🔗 Files:
+##### 🔗 Files:
+- 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/SC310005-Week-1-AI-Slide.pdf)
+- 🧪 [Colab Notebook](https://colab.research.google.com/drive/1bq3i-WfNEJytu9EefqF4LbC3gepN0OL0?usp=sharing)
 - 📄 [Lab Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/SC310005-Week-1-AI-Laboratory-Activities.pdf)
 - 📂 [Dataset - Titanic CSV](https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/main/dataset/titanic_dataset.csv)
-
-- Week1 Colab: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Numpy.ipynb)
 
 > 💡 *Task*: Use `pandas` to explore the Titanic dataset. Clean the data, visualize features, and try to build a simple rule-based survival predictor.
 
 ---
 
-## 📚 Recommended Resources
+## 📚 Recommended Resources (References)
 
 - [Hugging Face Transformers](https://huggingface.co/learn)
 - [LangChain Docs](https://docs.langchain.com/)
@@ -58,7 +54,7 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ## 🙌 Acknowledgments
 
-This course is inspired by the works of [CS231n](http://cs231n.stanford.edu/), [Andrej Karpathy](https://www.youtube.com/@karpathy), and the open-source AI community including Hugging Face and OpenAI.
+This course is inspired by the works of [CS231n](http://cs231n.stanford.edu/), and the open-source AI community including Hugging Face and OpenAI.
 
 > Made with ❤️ for the next generation of Thai AI innovators 🇹🇭
 
