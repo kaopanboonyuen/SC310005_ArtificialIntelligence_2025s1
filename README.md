@@ -31,8 +31,9 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 #### 🛠️ Lab Activity: Titanic Dataset Survival Prediction
 
 ##### 🔗 Files:
-- 📄 [Lab Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/SC310005-Week-1-AI-Laboratory-Activities.pdf)
+- 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/SC310005-Week-1-AI-Slide.pdf)
 - 🧪 [Colab Notebook](https://colab.research.google.com/drive/1bq3i-WfNEJytu9EefqF4LbC3gepN0OL0?usp=sharing)
+- 📄 [Lab Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/SC310005-Week-1-AI-Laboratory-Activities.pdf)
 - 📂 [Dataset - Titanic CSV](https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/main/dataset/titanic_dataset.csv)
 
 > 💡 *Task*: Use `pandas` to explore the Titanic dataset. Clean the data, visualize features, and try to build a simple rule-based survival predictor.
