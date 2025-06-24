@@ -7,7 +7,7 @@
 ## 👨‍🏫 Lecturer
 
 **Teerapong Panboonyuen (Kao)**  
-Khon Kaen Business School, Khon Kaen University  
+Senior AI Research Scientist, MARS and PostDoc Fellow, Chula
 📧 [teerapong.pa@chula.ac.th](mailto:teerapong.pa@chula.ac.th) | 🌐 [GitHub Profile](https://github.com/kaopanboonyuen)
 
 ---
@@ -22,13 +22,15 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ## 🗓️ Weekly Schedule (16 Weeks)
 
+---
+
 ### 📅 Week 1: Introduction to AI + Python Refresher (NumPy & Pandas)
 
 > 🎯 **Goal**: Understand the course structure and refresh Python basics for data manipulation.
 
-## 🛠️ Lab Activity: Titanic Dataset Survival Prediction
+#### 🛠️ Lab Activity: Titanic Dataset Survival Prediction
 
-### 🔗 Files:
+##### 🔗 Files:
 - 📄 [Lab Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/SC310005-Week-1-AI-Laboratory-Activities.pdf)
 - 🧪 [Colab Notebook](https://colab.research.google.com/drive/1bq3i-WfNEJytu9EefqF4LbC3gepN0OL0?usp=sharing)
 - 📂 [Dataset - Titanic CSV](https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/main/dataset/titanic_dataset.csv)
