@@ -6,7 +6,7 @@
 
 ## 👨‍🏫 Lecturer
 
-**Teerapong Panboonyuen (Kao)**  
+**Teerapong Panboonyuen or P'Kao**  
 Senior AI Research Scientist, MARS and PostDoc Fellow, Chula
 📧 [teerapong.pa@chula.ac.th](mailto:teerapong.pa@chula.ac.th) | 🌐 [GitHub Profile](https://github.com/kaopanboonyuen)
 
@@ -40,7 +40,7 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ---
 
-## 📚 Recommended Resources
+## 📚 Recommended Resources (References)
 
 - [Hugging Face Transformers](https://huggingface.co/learn)
 - [LangChain Docs](https://docs.langchain.com/)
@@ -52,7 +52,7 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ## 🙌 Acknowledgments
 
-This course is inspired by the works of [CS231n](http://cs231n.stanford.edu/), [Andrej Karpathy](https://www.youtube.com/@karpathy), and the open-source AI community including Hugging Face and OpenAI.
+This course is inspired by the works of [CS231n](http://cs231n.stanford.edu/), and the open-source AI community including Hugging Face and OpenAI.
 
 > Made with ❤️ for the next generation of Thai AI innovators 🇹🇭
 
