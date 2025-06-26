@@ -26,6 +26,16 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ---
 
+#### 🔁 Python Recap (for students needing a refresher)
+
+> 📚 **Optional but recommended**: Review core Python, NumPy, and Pandas before diving into lab work.
+
+* 📝 [Python Recap Notebook on Colab](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/SC310005_Python_Recap_for_Artificial_Intelligence.ipynb)
+
+> 🔍 *Covers*: Python syntax, NumPy arrays, Pandas DataFrames, data exploration, and basic plotting — all essential for AI programming.
+
+---
+
 ### 📅 Week 1: Introduction to AI + Python Refresher (NumPy & Pandas)
 
 > 🎯 **Goal**: Understand the course structure and refresh Python basics for data manipulation.
