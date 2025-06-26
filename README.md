@@ -52,13 +52,18 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ---
 
-## 📚 Recommended Resources (References)
+## 📚 Reference and Credit
 
 - [Hugging Face Transformers](https://huggingface.co/learn)
 - [LangChain Docs](https://docs.langchain.com/)
 - [CS231n (Stanford Vision)](http://cs231n.stanford.edu/)
 - [Deep Learning with Python (François Chollet)](https://www.manning.com/books/deep-learning-with-python)
 - [Google Colab Notebooks](https://colab.research.google.com/)
+- [OpenAI ChatGPT](https://chat.openai.com/)
+- [Google Gemini](https://gemini.google.com/)
+- [Anthropic Claude](https://www.anthropic.com/index/claude)
+- [Mistral AI](https://mistral.ai/)
+- [Meta LLaMA Models](https://ai.meta.com/llama/)
 
 ---
 
