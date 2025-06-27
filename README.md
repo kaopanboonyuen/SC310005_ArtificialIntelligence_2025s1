@@ -45,9 +45,6 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 ##### 🔗 Files:
 
 * 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_1_intro_ai.pdf)
-* 🧪 [Colab Notebook](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week1_InClass.ipynb)
-* 📄 [Lab Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/AI-Homework-Assignment-Week-1.pdf)
-* 📂 [Dataset - Fictional Characters Excel](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/raw/main/dataset/fictional_characters.xlsx)
 
 > 💡 *Task*: Use `pandas` to explore the Fictional Characters dataset. Clean the data, visualize features, and attempt to build a simple rule-based classifier.
 
