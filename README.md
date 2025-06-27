@@ -40,15 +40,16 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 > 🎯 **Goal**: Understand the course structure and refresh Python basics for data manipulation.
 
-#### 🛠️ Lab Activity: Titanic Dataset Survival Prediction
+#### 🛠️ Lab Activity: Fictional Characters Dataset Analysis
 
 ##### 🔗 Files:
-- 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/SC310005-Week-1-AI-Slide.pdf)
-- 🧪 [Colab Notebook](https://colab.research.google.com/drive/1bq3i-WfNEJytu9EefqF4LbC3gepN0OL0?usp=sharing)
-- 📄 [Lab Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/SC310005-Week-1-AI-Laboratory-Activities.pdf)
-- 📂 [Dataset - Titanic CSV](https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/main/dataset/titanic_dataset.csv)
 
-> 💡 *Task*: Use `pandas` to explore the Titanic dataset. Clean the data, visualize features, and try to build a simple rule-based survival predictor.
+* 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_1_intro_ai.pdf)
+* 🧪 [Colab Notebook](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week1_InClass.ipynb)
+* 📄 [Lab Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/AI-Homework-Assignment-Week-1.pdf)
+* 📂 [Dataset - Fictional Characters Excel](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/raw/main/dataset/fictional_characters.xlsx)
+
+> 💡 *Task*: Use `pandas` to explore the Fictional Characters dataset. Clean the data, visualize features, and attempt to build a simple rule-based classifier.
 
 ---
 
