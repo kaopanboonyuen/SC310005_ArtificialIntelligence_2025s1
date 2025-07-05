@@ -50,6 +50,20 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ---
 
+### 📅 Week 2: Feature Engineering for AI
+
+> 🎯 **Goal**: Learn how to transform raw data into meaningful features to improve model performance.
+
+#### 🛠️ Lab Activity: Feature Creation & Selection with Fictional Characters Dataset
+
+##### 🔗 Files:
+
+* 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_2_feature_engineering.pdf)
+
+> 💡 *Task*: Engineer new features such as interaction terms, binary flags, or normalized attributes. Evaluate feature importance and prepare the dataset for supervised learning.
+
+---
+
 ## 📚 Reference and Credit
 
 - [Hugging Face Transformers](https://huggingface.co/learn)
