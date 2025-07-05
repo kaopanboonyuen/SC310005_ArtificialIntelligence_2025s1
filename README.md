@@ -59,6 +59,9 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 ##### 🔗 Files:
 
 * 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_2_feature_engineering.pdf)
+* 🧪 [Colab Notebook](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week2_InClass.ipynb)
+* 📄 [Lab Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/AI-Homework-Assignment-Week-2.pdf)
+* 📂 [Dataset - Fictional Characters Excel](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/raw/main/dataset/fictional_characters.xlsx)
 
 > 💡 *Task*: Engineer new features such as interaction terms, binary flags, or normalized attributes. Evaluate feature importance and prepare the dataset for supervised learning.
 
