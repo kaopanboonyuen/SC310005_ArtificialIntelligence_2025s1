@@ -67,6 +67,20 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ---
 
+### 📅 Week 3: Supervised Learning with Machine Learning
+
+> 🎯 **Goal**: Understand the fundamentals of supervised learning and build classification models using labeled data.
+
+#### 🛠️ Lab Activity: Cancer Classification Model Development
+
+##### 🔗 Files:
+
+* All lecture slides and code materials will be uploaded before each class session.
+
+> 💡 *Task*: Train a supervised machine learning model to classify cancer types based on medical data. Evaluate model accuracy and performance metrics using real-world features.
+
+---
+
 ## 📚 Reference and Credit
 
 - [Hugging Face Transformers](https://huggingface.co/learn)
