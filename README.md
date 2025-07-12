@@ -75,7 +75,7 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ##### 🔗 Files:
 
-* All lecture slides and code materials will be uploaded before each class session.
+* 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_3_supervised_learning.pdf)
 
 > 💡 *Task*: Train a supervised machine learning model to classify cancer types based on medical data. Evaluate model accuracy and performance metrics using real-world features.
 
