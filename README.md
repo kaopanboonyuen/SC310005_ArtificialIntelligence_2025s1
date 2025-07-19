@@ -94,6 +94,8 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 * 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_4_deep_learning.pdf)
 * 🧪 [Colab Notebook](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week4_InClass.ipynb)
+* 📄 [Assignment Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/AI-Homework-Assignment-Week-4.pdf)
+* 📂 [Dataset - Thai PM Faces (ZIP)](https://github.com/kaopanboonyuen/panboonyuen_dataset/blob/main/public_dataset/thai_pm_faces.zip)
 
 > 💡 *Task*: Train a Vision Transformer model to classify facial images of Thai Prime Ministers. Evaluate the model's accuracy and assess the effectiveness of Vision Transformers in image classification tasks.
 
