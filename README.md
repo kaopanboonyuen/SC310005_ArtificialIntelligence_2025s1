@@ -84,6 +84,20 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ---
 
+### 📅 Week 4: Deep Learning
+
+> 🎯 **Goal**: Learn the fundamentals of deep learning and apply Vision Transformers for facial classification using the Thai Prime Minister's dataset.
+
+#### 🛠️ Lab Activity: Thai Prime Minister Face Classification using Vision Transformer
+
+##### 🔗 Files:
+
+* 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_4_deep_learning.pdf)
+
+> 💡 *Task*: Train a Vision Transformer model to classify facial images of Thai Prime Ministers. Evaluate the model's accuracy and assess the effectiveness of Vision Transformers in image classification tasks.
+
+---
+
 ## 📚 Reference and Credit
 
 - [Hugging Face Transformers](https://huggingface.co/learn)
