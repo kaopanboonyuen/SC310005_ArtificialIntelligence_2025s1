@@ -8,7 +8,7 @@
 
 **Teerapong Panboonyuen or P'Kao**  
 
-> Senior AI Research Scientist, MARS and PostDoc Fellow, Chula
+> Senior AI Research Scientist, [MARSAIL](https://kaopanboonyuen.github.io/MARS/) and PostDoc Fellow, Chula
 
 📧 [teerapong.pa@chula.ac.th](mailto:teerapong.pa@chula.ac.th) | 🌐 [GitHub Profile](https://github.com/kaopanboonyuen)
 
