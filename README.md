@@ -110,6 +110,9 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 ##### 🔗 Files:
 
 * 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_5_recommender_system.pdf)
+* 🧪 [Colab Notebook](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week5_InClass.ipynb)
+* 📄 [Assignment Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/AI-Homework-Assignment-Week-5.pdf)
+* 📂 [Dataset - Online Retail CSV](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/raw/main/dataset/KKUAI_OnlineRetail.csv)
 
 > 💡 *Task*: Apply recommendation system techniques such as collaborative filtering and content-based filtering to suggest books to users in a virtual bookstore environment. The provided dataset contains online retail transactions which must be adapted and used to simulate recommendation logic.
 
