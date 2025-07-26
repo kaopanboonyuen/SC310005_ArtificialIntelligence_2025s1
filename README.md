@@ -101,6 +101,20 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ---
 
+### 📅 Week 5: Recommender System
+
+> 🎯 **Goal**: Understand the principles behind recommendation systems and apply them to real-world retail data to suggest products in a Book Store setting.
+
+#### 🛠️ Lab Activity: Building a Book Store Recommender System
+
+##### 🔗 Files:
+
+* 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_5_recommender_system.pdf)
+
+> 💡 *Task*: Apply recommendation system techniques such as collaborative filtering and content-based filtering to suggest books to users in a virtual bookstore environment. The provided dataset contains online retail transactions which must be adapted and used to simulate recommendation logic.
+
+---
+
 ## 📚 Reference and Credit
 
 - [Hugging Face Transformers](https://huggingface.co/learn)
