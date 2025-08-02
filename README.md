@@ -127,6 +127,9 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 ##### 🔗 Files:
 
 * 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_6_stock_time_series_forecasting.pdf)
+* 🧪 [Colab Notebook](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week6_InClass.ipynb)
+* 📄 [Assignment Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/AI-Homework-Assignment-Week-6.pdf)
+* 📂 [Dataset - Thai Stock Prices CSV](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/raw/main/dataset/kku_homework_stock_dataset.csv)
 
 > 💡 *Task*: Use any forecasting method (moving average, machine learning, deep learning) to model and predict stock prices of these 5 Thai stocks: AOT, BDMS, BAY, ESSO, HMPRO. Evaluate your models with RMSE and MAE and visualize the forecasts versus actual prices.
 
