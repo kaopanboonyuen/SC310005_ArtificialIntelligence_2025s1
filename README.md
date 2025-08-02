@@ -118,6 +118,20 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ---
 
+### 📅 Week 6: Thai Stock Time Series Forecasting
+
+> 🎯 **Goal**: Learn and apply time series forecasting techniques on real Thai stock data to predict daily closing prices with the aim to minimize forecasting errors.
+
+#### 🛠️ Lab Activity: Forecasting 5 Thai Stocks
+
+##### 🔗 Files:
+
+* 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_6_stock_time_series_forecasting.pdf)
+
+> 💡 *Task*: Use any forecasting method (moving average, machine learning, deep learning) to model and predict stock prices of these 5 Thai stocks: AOT, BDMS, BAY, ESSO, HMPRO. Evaluate your models with RMSE and MAE and visualize the forecasts versus actual prices.
+
+---
+
 ## 📚 Reference and Credit
 
 - [Hugging Face Transformers](https://huggingface.co/learn)
