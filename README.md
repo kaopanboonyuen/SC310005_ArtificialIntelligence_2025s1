@@ -135,6 +135,22 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ---
 
+### 📅 Week 7: Poster Presentation Consultation (No Lecture & Lab)
+
+> 🎯 **Goal**: Each group will consult with the instructor via Zoom to receive feedback and guidance on their poster presentation progress.
+
+#### 🛠️ Activity: Group-by-Group Poster Consultation (Zoom Only)
+
+> 🕐 **Note**: Please join Zoom at your group's scheduled time. Be ready to share your current poster draft and any questions you may have.
+
+##### 🗓️ **Group Consultation Schedule:**
+
+- **Format**: 15 minutes per group (ordered by group number)
+
+> 💬 *Reminder*: Please be punctual and respectful of others' consultation time. This session is your chance to refine your project before the final presentation.
+
+---
+
 ## 📚 Reference and Credit
 
 - [Hugging Face Transformers](https://huggingface.co/learn)
