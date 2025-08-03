@@ -163,6 +163,7 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 - [Anthropic Claude](https://www.anthropic.com/index/claude)
 - [Mistral AI](https://mistral.ai/)
 - [Meta LLaMA Models](https://ai.meta.com/llama/)
+- [CS224N: NLP](https://web.stanford.edu/class/cs224n/)
 
 ---
 
