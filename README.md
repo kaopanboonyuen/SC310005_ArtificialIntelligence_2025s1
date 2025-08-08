@@ -135,7 +135,7 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ---
 
-### 📅 Week 7: Poster Presentation Consultation (No Lecture & Lab)
+### 📅 Week 7: How to Prepare an AI Poster
 
 > 🎯 **Goal**: Each group will consult with the instructor via Zoom to receive feedback and guidance on their poster presentation progress.
 
