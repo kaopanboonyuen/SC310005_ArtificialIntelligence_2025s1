@@ -143,8 +143,8 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ##### 🔗 Files:
 
-* 🧪 [In-Class Notebook](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week7_InClass.ipynb)
-* 📄 [Lecture Slide - How to Prepare an AI Poster (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_7_how_to_prepare_an_ai_poster.pdf)
+* 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_7_how_to_prepare_an_ai_poster.pdf)
+* 🧪 [Colab Notebook](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week7_InClass.ipynb)
 * 📄 [Assignment Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/AI-Homework-Assignment-Week-7.pdf)
 
 > 🕐 **Note**: Please join Zoom at your group's scheduled time. Be ready to share your current poster draft and any questions you may have.
