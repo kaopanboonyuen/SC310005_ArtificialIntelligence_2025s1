@@ -141,13 +141,15 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 #### 🛠️ Activity: Group-by-Group Poster Consultation (Zoom Only)
 
+##### 🔗 Files:
+
+* 🧪 [In-Class Notebook](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week7_InClass.ipynb)
+* 📄 [Lecture Slide - How to Prepare an AI Poster (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_7_how_to_prepare_an_ai_poster.pdf)
+* 📄 [Assignment Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/AI-Homework-Assignment-Week-7.pdf)
+
 > 🕐 **Note**: Please join Zoom at your group's scheduled time. Be ready to share your current poster draft and any questions you may have.
 
-##### 🗓️ **Group Consultation Schedule:**
-
-- **Format**: 15 minutes per group (ordered by group number)
-
-> 💬 *Reminder*: Please be punctual and respectful of others' consultation time. This session is your chance to refine your project before the final presentation.
+> 💡 *Reminder*: Please be punctual and respectful of others' consultation time. This session is your chance to refine your project before the final presentation.
 
 ---
 
