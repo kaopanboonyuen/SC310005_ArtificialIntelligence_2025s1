@@ -153,6 +153,22 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 ---
 
+### 📅 Week 8-9: Poster Showcase, Oral Presentation & Midterm Exam
+
+> 🎯 **Goal**: Demonstrate your creativity, teamwork, and understanding of AI through your final poster and oral presentation — and test your knowledge in the midterm exam.
+
+#### 🖼️ Activity: AI Poster & Oral Presentation
+
+This is your moment to shine! Each group presents their AI project with clarity and confidence. Inspire us.
+
+#### 📝 Activity: Midterm Exam
+
+A checkpoint to reflect on everything you’ve learned so far. Think critically, stay sharp — you’ve got this.
+
+> 🚀 *Good luck, and see you in the second half of the semester.* 🔥
+
+---
+
 ## 📚 Reference and Credit
 
 - [Hugging Face Transformers](https://huggingface.co/learn)
