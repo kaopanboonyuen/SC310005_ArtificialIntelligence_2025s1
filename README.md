@@ -167,6 +167,31 @@ A checkpoint to reflect on everything you’ve learned so far. Think critically,
 
 > 🚀 *Good luck, and see you in the second half of the semester.* 🔥
 
+
+---
+
+### 📅 Week 10: Ultralytics | Revolutionizing the World of Vision AI
+
+> 🎯 **Goal**: Explore different Computer Vision tasks using YOLOv8 models (n, s, m, l, x), including detection, segmentation, and pose estimation. Students will gain hands-on experience training, evaluating, and improving models on multiple datasets.
+
+#### 🛠️ Activity: Hands-On Labs in Class
+
+Students will run **5 in-class notebooks**, covering a variety of vision tasks:
+
+* Brain Tumor Detection → binary object detection  
+* Medical Pills Detection → binary object detection  
+* African Wildlife Detection → multi-class detection  
+* Crack Segmentation → semantic segmentation  
+* Tiger Pose → keypoint detection  
+
+##### 🔗 Files:
+
+* 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_10_ultralytics_revolutionizing_the_world_of_vision_ai.pdf)  
+
+> 🕐 **Note**: Students are expected to explore all 5 labs during class, experiment with different YOLO families, try augmentation and fine-tuning techniques, and compare model performance across tasks.
+
+> 💡 *Reminder*: Focus on learning by doing. Experiment, visualize predictions, and document your results. Bonus points for creative tricks that outperform larger models!  
+
 ---
 
 ## 📚 Reference and Credit
