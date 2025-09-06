@@ -186,6 +186,13 @@ Students will run **5 in-class notebooks**, covering a variety of vision tasks:
 ##### 🔗 Files:
 
 * 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_10_ultralytics_revolutionizing_the_world_of_vision_ai.pdf)  
+* 🧪 [Colab Notebooks: 01-BrianTumorDetection](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week10_InClass_01_BrianTumorDetection.ipynb)  
+* 🧪 [Colab Notebooks: 02-MedicalPillsDetection](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week10_InClass_02_MedicalPillsDetection.ipynb)  
+* 🧪 [Colab Notebooks: 03-AfricanWildlifeDetection](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week10_InClass_03_AfricanWildlifeDetection.ipynb)  
+* 🧪 [Colab Notebooks: 04-CrackSegmentation](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week10_InClass_04_Crack_Segmentation.ipynb)  
+* 🧪 [Colab Notebooks: 05-TigerPose](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week10_InClass_05_TigerPose.ipynb)  
+
+* 📄 [Assignment Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/AI-Homework-Assignment-Week-10.pdf)
 
 > 🕐 **Note**: Students are expected to explore all 5 labs during class, experiment with different YOLO families, try augmentation and fine-tuning techniques, and compare model performance across tasks.
 
