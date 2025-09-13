@@ -200,6 +200,26 @@ Students will run **5 in-class notebooks**, covering a variety of vision tasks:
 
 ---
 
+### 📅 Week 11: Generative AI
+
+> 🎯 **Goal**: Explore state-of-the-art Generative AI models across multiple modalities (text, image, video, music, 3D) to understand model behavior, generate outputs from your own prompts, and analyze performance.
+
+#### 🛠️ Lab Activity: Hands-On with Generative AI Models
+
+##### 🔗 Files:
+
+* 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_11_generative_ai.pdf)
+
+> 💡 *Task*: Experiment with the following generative AI tasks:  
+> 🖼️ **Text ➡️ Image** (e.g., Stable Diffusion) – generate at least 3 creative images  
+> 🔄 **Image ➡️ Image** (Style Transfer / Diffusion) – generate at least 2 style variations  
+> ✍️ **Text ➡️ Text** (e.g., GPT-2, GPT-Neo) – ask at least 10 questions/prompts and analyze responses  
+> 🖼️ **Image ➡️ Text** (Captioning with BLIP or similar) – generate captions for at least 5 images  
+
+> ⚡ *Extra Credit*: Discover newer or more impressive Hugging Face models than the ones provided. Document all outputs, tricks, prompt engineering, and model settings in your report.
+
+---
+
 ## 📚 Reference and Credit
 
 - [Hugging Face Transformers](https://huggingface.co/learn)
