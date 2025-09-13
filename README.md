@@ -209,6 +209,9 @@ Students will run **5 in-class notebooks**, covering a variety of vision tasks:
 ##### 🔗 Files:
 
 * 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_11_generative_ai.pdf)
+* 🧪 [Colab Notebook](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week11_InClass.ipynb)
+* 📄 [Assignment Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/AI-Homework-Assignment-Week-11.pdf)
+* 📂 [Dataset – Sample Face Image](https://raw.githubusercontent.com/kaopanboonyuen/panboonyuen_dataset/main/public_dataset/face/Barack_Obama_Sample_Face.png)
 
 > 💡 *Task*: Experiment with the following generative AI tasks:  
 > 🖼️ **Text ➡️ Image** (e.g., Stable Diffusion) – generate at least 3 creative images  
