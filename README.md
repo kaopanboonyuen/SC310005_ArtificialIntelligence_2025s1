@@ -223,6 +223,20 @@ Students will run **5 in-class notebooks**, covering a variety of vision tasks:
 
 ---
 
+### 📅 Week 12: Reinforcement Learning
+
+> 🎯 **Goal**: Understand the foundations of Reinforcement Learning (RL), including environment, agent, policy, reward, and value functions. Apply RL to real-world retail recommendation systems and experiment with a homework dataset (Netflix users).
+
+#### 🛠️ Lab Activity: Hands-On with RL Environment Design
+
+##### 🔗 Files:
+
+* 🧠 Lecture Slide (PDF): N/A
+
+> ⚡ *Extra Credit*: Modify the reward function or state representation in your RL environment to better reflect real-world business goals (e.g., maximize revenue, retention, or cross-sell opportunities). Document your design choices, experiments, and results.
+
+---
+
 ## 📚 Reference and Credit
 
 - [Hugging Face Transformers](https://huggingface.co/learn)
