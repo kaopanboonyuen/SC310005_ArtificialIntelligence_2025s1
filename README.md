@@ -20,6 +20,33 @@ This course introduces modern Artificial Intelligence (AI) concepts using real-w
 
 > ✨ Final outcome: Build a complete AI solution — from data to demo — using Python, Colab, and modern AI APIs.
 
+
+---
+
+### 🦖 AI Final Project – Oral Presentation
+
+> 🎯 **Goal**: Showcase your AI project! Present your problem, approach, dataset, model, results, and demo clearly and visually. Make it fun and professional.  
+
+* 🧠 [AI Final Project Oral Presentation Guide PDF](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/AI_Final_Project_Oral_Presentation_Guide.pdf)
+
+#### 🛠️ Tips for Students
+
+* **Project Name & Problem**: Clear, catchy, one sentence.  
+* **AI Method**: ML 🧮 | Deep Learning 🖼️ | LLM 📖 | GenAI 🎨 | RL 🎲. Explain why.  
+* **Dataset**: Public datasets recommended:  
+  - [Kaggle](https://www.kaggle.com/)  
+  - [Roboflow](https://roboflow.com/)  
+  - [Hugging Face](https://huggingface.co/datasets)  
+  - [Google Dataset Search](https://datasetsearch.research.google.com/)  
+* **Preprocessing**: Clean, resize, normalize, augment.  
+* **Model & Architecture**: Diagram pipeline, mention tools (PyTorch, TensorFlow, etc.).  
+* **Evaluation Metrics**: Accuracy ✅, F1 ⚖️, RMSE/MAE.  
+* **Results & Demo**: Graphs, predictions, live demo optional.  
+* **Discussion**: Strengths, limitations, future work.  
+* **References**: Cite datasets, tools, papers.  
+
+> ⚡ **Extra Tip**: Keep slides visual, one idea per slide, practice timing (~8–10 mins), and tell a story.  
+
 ---
 
 ## 🗓️ Weekly Schedule (16 Weeks)
