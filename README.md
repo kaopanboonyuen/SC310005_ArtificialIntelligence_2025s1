@@ -232,6 +232,10 @@ Students will run **5 in-class notebooks**, covering a variety of vision tasks:
 ##### 🔗 Files:
 
 * 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_12_reinforcement_learning.pdf)
+* 🧪 [Colab Notebook](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week12_InClass.ipynb)
+* 📄 [Assignment Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/AI-Homework-Assignment-Week-12.pdf)
+* 📂 [Dataset – Online Retail (Lab)](https://raw.githubusercontent.com/kaopanboonyuen/panboonyuen_dataset/main/public_dataset/RL_Online_Retail.csv)
+* 📂 [Dataset – Netflix Users (Homework)](https://github.com/kaopanboonyuen/panboonyuen_dataset/blob/main/public_dataset/RL_Netflix_Users.csv)
 
 > ⚡ *Extra Credit*: Modify the reward function or state representation in your RL environment to better reflect real-world business goals (e.g., maximize revenue, retention, or cross-sell opportunities). Document your design choices, experiments, and results.
 
