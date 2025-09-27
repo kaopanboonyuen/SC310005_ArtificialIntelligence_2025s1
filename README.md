@@ -231,7 +231,7 @@ Students will run **5 in-class notebooks**, covering a variety of vision tasks:
 
 ##### 🔗 Files:
 
-* 🧠 Lecture Slide (PDF): N/A
+* 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_12_reinforcement_learning.pdf)
 
 > ⚡ *Extra Credit*: Modify the reward function or state representation in your RL environment to better reflect real-world business goals (e.g., maximize revenue, retention, or cross-sell opportunities). Document your design choices, experiments, and results.
 
