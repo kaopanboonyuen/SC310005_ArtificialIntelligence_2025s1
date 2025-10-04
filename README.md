@@ -268,6 +268,20 @@ Students will run **5 in-class notebooks**, covering a variety of vision tasks:
 
 ---
 
+### 📅 Week 13: Explainable AI (XAI)
+
+> 🎯 **Goal**: Learn the principles of Explainable AI (XAI) and how to interpret deep learning models for image classification. Apply Grad-CAM and other XAI methods to explain why an AI predicts a certain class for skin cancer images.
+
+#### 🛠️ Lab Activity: Hands-On with Grad-CAM and XAI Techniques
+
+##### 🔗 Files:
+
+* 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_13_explainable_ai.pdf)
+
+> ⚡ *Extra Credit*: Experiment with Grad-CAM or LIME/SHAP to explain multiple predictions, analyze heatmaps, and compare AI reasoning across different skin cancer classes. Document your insights and observations.
+
+---
+
 ## 📚 Reference and Credit
 
 - [Hugging Face Transformers](https://huggingface.co/learn)
