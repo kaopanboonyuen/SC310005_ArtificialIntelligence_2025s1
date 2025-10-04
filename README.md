@@ -277,8 +277,51 @@ Students will run **5 in-class notebooks**, covering a variety of vision tasks:
 ##### 🔗 Files:
 
 * 🧠 [Lecture Slide (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/slides/lecture_13_explainable_ai.pdf)
+* 🧪 [Colab Notebook – LIME & SHAP](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week13_InClass_XAI_LIME_SHAP.ipynb)
+* 🧪 [Colab Notebook – Grad-CAM](https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/code/Week13_InClass_XAI_Grad_CAM.ipynb)
+* 📄 [Assignment Instructions (PDF)](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2025s1/blob/main/assignments/AI-Homework-Assignment-Week-13.pdf)
+* 📂 [Dataset – Skin Cancer (9 Classes, ISIC)](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic/data)
 
 > ⚡ *Extra Credit*: Experiment with Grad-CAM or LIME/SHAP to explain multiple predictions, analyze heatmaps, and compare AI reasoning across different skin cancer classes. Document your insights and observations.
+
+---
+
+### 📅 Week 14–16: Final Project & Final Exam 🎓✨
+
+> 🎯 **Goal**: Integrate all AI concepts learned this semester and demonstrate your skills in a **Final Project**. Apply techniques such as CNNs, ResNet, reinforcement learning 🕹️, or any other AI methods from this course to a real-world dataset of your choice. Prepare for a **Final Exam** that tests both theoretical understanding and practical implementation.
+
+#### 🛠️ Lab Activity: Final Project & Exam
+
+**Week 14 – Project Kickoff 🏁**
+
+* Choose a dataset or problem of interest and define a clear research question or task 📌.
+* Explore your dataset: check number of samples, class distribution, and perform basic EDA 📊.
+* Plan your model architecture and decide which AI techniques (CNNs, transfer learning, RL, XAI) to use 🖥️.
+* Outline your workflow: preprocessing, augmentation, training, evaluation, and explainability analysis 🗂️.
+
+**Week 15 – Project Implementation ⚙️**
+
+* Implement and train your model 💻.
+* **Showcase creativity:** Students can use **any AI techniques** learned this semester to demonstrate their solution, e.g., image classification, reinforcement learning, time series forecasting, NLP, or multimodal AI 🎨🤖.
+* Evaluate your model using metrics appropriate for your task: accuracy ✅, confusion matrix 📈, classification report 📝, or others depending on your project.
+* Optimize your model and document results clearly with plots, tables, and brief interpretations 📖.
+
+**Week 16 – Final Exam & Project Presentation 🎤**
+
+* Submit your final notebook and project report 🗂️.
+* Demonstrate your project: explain your model design, evaluation metrics, and insights 🖼️.
+* Complete the **Final Exam**, including practical coding tasks and conceptual questions 🧠.
+* Highlight your AI solution: explain why your approach works and what you learned during the project 🌟.
+
+---
+
+💡 **Tips to Impress 🌟**
+
+* Clearly document every step: preprocessing, modeling, evaluation, and insights 📝.
+* Include **visualizations** such as plots, charts, or other interpretability techniques where relevant 📊.
+* Compare different models or techniques if possible and analyze results critically 🧐.
+* Make your project reproducible and easy to follow 🔄.
+* Prepare a short demo or presentation to effectively communicate your results 🎥.
 
 ---
 
